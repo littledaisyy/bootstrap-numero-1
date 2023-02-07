@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(88, 15, 88);
+}
+
+
+/*propiedades fila 1*/
+.fila1{
+    background-color: lightgreen;
+}
+
+.altura{
+    height: 3rem;
+}
+
+.rayitas{
+    background-color: rgb(219, 144, 238);
+    background-image: url(../imagenes/menu.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.medidas{
+    height: 3rem;
+}
+
+/*propiedades fila 2*/
+.fila2{
+    background-color: rgb(75, 73, 218);
+}
+
+.altura2{
+    height: 20rem;
+}
+
+img{
+    width: 100vh;
+    height: 350px;
+}
+/*propiedades fila 3*/
+.caja1{
+    background-color: yellow;
+}
+
+.caja2{
+    background-color: rgb(206, 145, 198);
+}
+
+.caja3{
+    background-color: rgb(91, 168, 60);
+}
+
+.alturacaja{
+    height: 15rem;
+}
+
+.alturacaja2{
+    height: 15rem;
+}
+
+.alturacaja3{
+    height: 15rem;
+}
+
+/*propiedades fila 4*/
+.caja4{
+    background-color: rgb(87, 87, 80);
+}
+
+.caja5{
+    background-color: rgb(23, 23, 24);
+}
+.alturacaja4{
+    height: 15rem;
+}
+
+.alturacaja5{
+    height: 15rem;
+}
+.fondorosado{
+    background-color: rgb(225, 0, 255);
+}
